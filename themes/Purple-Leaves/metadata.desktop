@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Purple-Leaves
+Description=Purple-Leaves
+Author=keyitdev
+Website=https://github.com/Keyitdev/sddm-astronaut-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.4
+ConfigFile=Themes/purple_leaves.conf
+Screenshot=Backgrounds/purple_leaves.png
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=Purple-Leaves
+Theme-API=2.0
+QtVersion=6

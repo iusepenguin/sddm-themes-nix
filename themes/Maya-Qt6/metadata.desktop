@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Maya-Qt6
+Description=Maya-Qt6
+Author=Sanjeev Premi
+Copyright=(c) 2016, Sanjeev Premi
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.4
+Website=https://github.com/spremi
+Screenshot=screenshots/hi_IN.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=spremi@ymail.com
+Theme-Id=Maya-Qt6
+Theme-API=2.0
+QtVersion=6

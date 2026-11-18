@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Japanese-Aesthetic
+Description=Japanese-Aesthetic
+Author=keyitdev
+Website=https://github.com/Keyitdev/sddm-astronaut-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.4
+ConfigFile=Themes/japanese_aesthetic.conf
+Screenshot=Backgrounds/japanese_aesthetic.png
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=Japanese-Aesthetic
+Theme-API=2.0
+QtVersion=6

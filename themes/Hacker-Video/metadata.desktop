@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Hacker-Video
+Description=Hacker-Video
+Author=Qaddoumi
+Website=https://github.com/Qaddoumi/sddm-hacker-theme
+License=MIT
+Type=sddm-theme
+Version=1
+ConfigFile=theme.conf
+Screenshot=screenshot.png
+MainScript=Main.qml
+Theme-Id=Hacker-Video
+Theme-API=2.0
+QtVersion=6

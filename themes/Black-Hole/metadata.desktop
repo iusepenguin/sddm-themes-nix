@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Black-Hole
+Description=Black-Hole
+Author=keyitdev
+Website=https://github.com/Keyitdev/sddm-astronaut-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.4
+ConfigFile=Themes/black_hole.conf
+Screenshot=Backgrounds/black_hole.png
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=Black-Hole
+Theme-API=2.0
+QtVersion=6

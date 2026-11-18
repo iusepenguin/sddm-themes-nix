@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Post-Apocalyptic-Hacker
+Description=Post-Apocalyptic-Hacker
+Author=keyitdev
+Website=https://github.com/Keyitdev/sddm-astronaut-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.4
+ConfigFile=Themes/post-apocalyptic_hacker.conf
+Screenshot=Backgrounds/post-apocalyptic_hacker.png
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=Post-Apocalyptic-Hacker
+Theme-API=2.0
+QtVersion=6

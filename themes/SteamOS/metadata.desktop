@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=SteamOS
+Description=SteamOS
+Author=Marian Arlt, Jiayuan "Weldon" Wen, Valve LLC (Logo)
+Copyright=Copyright (C) 2018 Marian Arlt
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.2
+Website=https://github.com/JiayuanWen/holoiso-sddm-steamos-theme
+Screenshot=previews/Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=wylfredwen@proton.me, marianarlt@icloud.com
+Theme-Id=SteamOS
+Theme-API=2.11
+QtVersion=6

@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Maldives-Qt6
+Description=Maldives-Qt6
+Author=Abdurrahman AVCI
+Copyright=(c) 2013, Abdurrahman AVCI
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.4
+Website=https://github.com/sddm/sddm
+Screenshot=maldives.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=abdurrahmanavci@gmail.com
+Theme-Id=Maldives-Qt6
+Theme-API=2.0
+QtVersion=6

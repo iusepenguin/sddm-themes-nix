@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Ricciolo2
+Description=Ricciolo2
+Author=rugyada
+Copyright=(c) 2013, Abdurrahman AVCI
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=ricciolo.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=Ricciolo2
+Theme-API=2.11
+QtVersion=6
